@@ -1,0 +1,78 @@
+# 🧾 Mandera Soft POS (Desktop App)
+
+A fast, reliable, and easy-to-use Point of Sale (POS) system built for modern businesses.
+Designed for performance, simplicity, and real-world retail environments.
+
+---
+
+##  Download
+
+ **Download the latest version here:**
+[Download Mandera Soft POS](#)
+
+> Replace `#` with your GitHub release link
+
+---
+
+##  Features
+
+*  Sales & checkout management
+*  Inventory tracking
+*  Customer management
+*  Reports & analytics
+*  Works with hosted backend (cloud-powered)
+*  Fast desktop performance (Electron-based)
+
+---
+
+## 🖥 System Requirements
+
+* Windows 10 / Windows 11
+* Minimum 4GB RAM
+* Internet connection required (for backend sync)
+
+---
+
+##  Installation
+
+1. Download the `.exe` installer
+2. Double-click to install
+3. Launch the app from Start Menu
+4. Login with your account
+
+---
+
+##  Security
+
+* Secure authentication
+* Data handled through protected backend APIs
+* No sensitive data stored locally without authorization
+
+---
+
+##  Updates
+
+New versions will be released regularly with improvements and new features.
+Make sure to download the latest version from this page.
+
+---
+
+## 🛠 Support
+
+For support, issues, or feedback:
+
+ Email: [muzamilinc@gmail.com](mailto:muzamilinc@gmail.com)
+ Website: https://manderasoftpos.co.ke
+
+---
+
+##  Notes
+
+* This repository contains **only the desktop application installer**
+* Source code is private and not included
+
+---
+
+## 📄 License
+
+All rights reserved © Mandera Softwares
